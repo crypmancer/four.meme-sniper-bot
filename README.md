@@ -1,4 +1,4 @@
-# Bnb Four.meme Sniper
+# Bnb Four.meme Sniper(Support fair mode)
 
 This tool allows users can detect new token launch on four.meme and snipe it immediately.
 
